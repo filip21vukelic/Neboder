@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neboder", "Neboder\Neboder.csproj", "{61A14290-D76A-4CD8-A4C7-EDE0BC3B0B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A14290-D76A-4CD8-A4C7-EDE0BC3B0B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A14290-D76A-4CD8-A4C7-EDE0BC3B0B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A14290-D76A-4CD8-A4C7-EDE0BC3B0B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A14290-D76A-4CD8-A4C7-EDE0BC3B0B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A9D83F8-7F5E-4872-B0BA-67B0E4E7E34C}
+	EndGlobalSection
+EndGlobal
